@@ -100,9 +100,4 @@ I love combining **technology, creativity, and entrepreneurship** to turn ideas 
 
 ---
 
-# 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/sahithya008/sahithya008/output/github-contribution-grid-snake.svg)
----
-
 ⭐ Thanks for visiting my profile!
