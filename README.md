@@ -1,103 +1,36 @@
-<!-- Typing Animation Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=1BE3C8&center=true&vCenter=true&width=700&lines=Hi+I'm+Sahithya+👋;Developer+%7C+Creator+%7C+Startup+Enthusiast;Building+Tech+That+Solves+Real+Problems;Always+Learning+Something+New+🚀" />
-</p>
+# Hi there, I'm Sahithya 👋
+
+🎓 **Student & Aspiring Developer / Entrepreneur**  
+💡 Passionate about technology, AI, design, and building impactful products.
 
 ---
 
-# 🌟 About Me
+### 🚀 About Me
 
-🎓 Student passionate about **technology, startups, design, and building impactful ideas**  
-💡 Currently exploring **Python, Web Development, AI, and Product Development**  
-🚀 I enjoy building projects that solve **real-world problems**
+- 💻 **Exploring:** Python, Web Development, AI, and Product Development
+---
 
-✨ **Goal:** Build meaningful tech products and grow as a **developer & entrepreneur**
+### 🛠 Tech Stack & Tools
+
+- **Languages:** Python, JavaScript, HTML, CSS
+- **Tools & Platforms:** GitHub, VS Code, Canva, Replit, Render
 
 ---
 
-# 🧠 Currently Learning
+### 📂 Featured Projects
 
-🌱 Agentic AI  
-🌱 Full-Stack Development  
-🌱 AI-powered Applications  
-
----
-
-# 🛠 Tech Stack
-
-### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,html,css" />
-</p>
-
-### Tools & Platforms
-<p>
-<img src="https://skillicons.dev/icons?i=github,vscode,figma" />
-</p>
-
-Canva • Replit • Render • Nodemailer
+- 📜 **Certificate Generator** – Bulk certificate generation system for college events.
+- 🌐 **Portfolio Website** – Personal website built with modern UI and animations.
+- 🛍 **E-Commerce Platform** – Website designed for ordering handcrafted gifts and custom items.
+- 💡 **AI Startup Concepts** – Researching and building prototypes for AI-driven solutions.
 
 ---
 
-# 🚀 Projects
+### 🤝 Connect with Me
 
-### 📜 Certificate Generator
-Bulk certificate generation system for **college events**
-
-### 🌐 Portfolio Website
-Personal portfolio with **modern UI and animations**
-
-### 🛍 E-Commerce Website
-Website to order **handcrafted gifts and custom orders**
-
-### 💡 Startup Concepts
-Exploring **AI-powered startup solutions**
+- 🌐 **GitHub:** [sahithya008](https://github.com/sahithya008)
+- 💼 **LinkedIn:** [sahithyamanmadi](https://linkedin.com/in/sahithyamanmadi)
 
 ---
 
-# 📈 Currently Working On
-
-🔹 Strengthening development skills  
-🔹 Building **AI-powered projects**  
-🔹 Expanding my **portfolio**  
-🔹 Exploring **startup ideas**
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sahithya008&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahithya008&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahithya008&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-# 🤝 Connect With Me
-
-Interested in **collaborating, working together, or just discussing tech, AI, and startups?**
-
-📌 GitHub  
-https://github.com/sahithya008  
-
-📌 LinkedIn  
-https://linkedin.com/in/sahithyamanmadi  
-
-✨ Always happy to connect with people who share similar interests.
-
----
-
-# ✨ Fun Fact
-
-I love combining **technology, creativity, and entrepreneurship** to turn ideas into real projects.
-
----
-
-⭐ Thanks for visiting my profile!
+⭐ *Thanks for visiting my profile!*
